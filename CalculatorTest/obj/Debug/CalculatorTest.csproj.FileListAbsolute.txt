@@ -1,0 +1,7 @@
+C:\Users\Lexicon\source\repos\CalculatorTest\CalculatorTest\bin\Debug\CalculatorTest.exe.config
+C:\Users\Lexicon\source\repos\CalculatorTest\CalculatorTest\bin\Debug\CalculatorTest.exe
+C:\Users\Lexicon\source\repos\CalculatorTest\CalculatorTest\bin\Debug\CalculatorTest.pdb
+C:\Users\Lexicon\source\repos\CalculatorTest\CalculatorTest\obj\Debug\CalculatorTest.csprojResolveAssemblyReference.cache
+C:\Users\Lexicon\source\repos\CalculatorTest\CalculatorTest\obj\Debug\CalculatorTest.csproj.CoreCompileInputs.cache
+C:\Users\Lexicon\source\repos\CalculatorTest\CalculatorTest\obj\Debug\CalculatorTest.exe
+C:\Users\Lexicon\source\repos\CalculatorTest\CalculatorTest\obj\Debug\CalculatorTest.pdb
